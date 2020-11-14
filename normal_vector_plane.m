@@ -1,6 +1,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %Nama    : Randy                                           %
-%Nim     : 02171030                                        %
+%Nim     : 02                                              %
 %PT      : Matematika Institut Teknologi Kalimantan        %
 %Matkul  : KPB(kalkulus Peubah Banyak)                     %
 %Program : Persamaan Bidang dari Nilai Vector Normal       %
