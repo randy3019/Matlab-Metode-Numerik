@@ -1,6 +1,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %Nama    : Randy                                           %
-%Nim     : 02171030                                        %
+%Nim     : 02                                              %
 %PT      : Matematika Institut Teknologi Kalimantan        %
 %Program : MATLAB MENCARI INVERS DARI SUATU MATRIX N X N   %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
