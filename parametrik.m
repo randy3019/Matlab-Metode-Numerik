@@ -1,7 +1,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %Nama    : Randy                                           %
-%Nim     : 02171030                                        %
-%Matkul  : KPB
+%Nim     : 02                                              %
+%Matkul  : KPB                                             %
 %PT      : Matematika Institut Teknologi Kalimantan        %
 %Program : Proyeksi Garis Dari Persamaan Parametrik        %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
