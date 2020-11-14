@@ -1,3 +1,8 @@
+% Nama:Randy AT         % 
+% Nim: 02               %
+% Tugas: Metode Numerik %
+
+
 function ANS = ManningEquation( )
 %manning's equation 
     A = [0.036	0.0001	10	2;...
