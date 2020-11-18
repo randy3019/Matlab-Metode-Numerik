@@ -1,6 +1,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %Nama    : Randy                                           %
 %Nim     : 02                                              %
+%Matkul  : KPB                                             %
 %PT      : Matematika Institut Teknologi Kalimantan        %
 %Program : Proyeksi Persamaan Bidang                       %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
