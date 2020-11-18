@@ -1,7 +1,10 @@
-% Nama:Randy AT         % 
-% Nim: 02               %
-% Tugas: Metode Numerik %
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Nama    : Randy                                           %
+%Nim     : 02                                              %
+%PT      : Matematika Institut Teknologi Kalimantan        %
+%Matkul  : Metode Numerik                                  %
+%Program : Manning-Equation                                %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 function ANS = ManningEquation( )
 %manning's equation 
